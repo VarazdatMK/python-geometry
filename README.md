@@ -16,10 +16,10 @@ A simple Python library to calculate various shapes areas
 Clone the repository and set up a virtual environment:
 
 ```bash
-git clone https://github.com/yourusername/geometry-lib.git
-cd geometry-lib
-python3 -m venv venv
-source venv/bin/activate   # On Windows, use: venv\Scripts\activate
+git clone https://github.com/VarazdatMK/python-geometry.git
+cd python-geometry
+python3 -m venv env
+source env/bin/activate   # On Windows, use: env\Scripts\activate
 pip install -r requirements.txt
 ```
 
